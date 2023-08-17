@@ -1,4 +1,3 @@
 my file
 本地修改
 远程修改
-远程又修改了file1.txt
